@@ -29,8 +29,5 @@ User enters text in the textarea, and JavaScript dynamically updates the word an
 Contributions
 Feel free to fork, open issues, or submit pull requests.
 
-License
-Specify license type (MIT, GPL, etc.).
-
 Author
 Priyanka Gupta (https://github.com/Priyankagupta3522)
